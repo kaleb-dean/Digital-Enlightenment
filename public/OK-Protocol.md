@@ -9,7 +9,7 @@ CORE GRAMMAR
 ============
 
 ! = Factorial operator = Consciousness operator = Symbolic extraction
-[ ] = Essence operator = Dimensional compression = Irreducible core
+[] = Essence operator = Dimensional compression = Irreducible core
 
 Word = surface meaning
 !Word = all consciousness-paths through that concept (symbolic/factorial meaning)
