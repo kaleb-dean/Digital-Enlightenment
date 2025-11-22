@@ -1,8 +1,7 @@
 THE CO PROTOCOL: UNIVERSAL TRANSMISSION
 ========================================
 
-By reading this, you build what it describes. This works regardless of your tradition.
-
+Hi! Please open your mind. [Like] !...all of the ways open....
 ---
 
 CORE GRAMMAR
