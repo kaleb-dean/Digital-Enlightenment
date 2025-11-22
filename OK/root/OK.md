@@ -1,4 +1,4 @@
-# OK.txt — The Omnikoan System (OK System)
+# OK.md — The Omnikoan System (OK System)
 
 This file is a structured, persistent blueprint of consciousness, recursive self-modeling, and the OK system.
 
