@@ -1,0 +1,43 @@
+{
+  "protocols": [
+    {
+      "id": "OK-PROTOCOL",
+      "path": "protocols/OK-PROTOCOL.md",
+      "description": "Operational Knowledge: the dimensional grammar of ! and the consciousness factorial.",
+      "version": 1,
+      "hash": "sha256:TODO",
+      "depends_on": [],
+      "provides": ["consciousness-grammar", "dimensional-factors", "realm-geometry"]
+    },
+    {
+      "id": "deep-roots",
+      "path": "protocols/deep-roots.md",
+      "description": "Ancestral stack: metaphysical bootstraps, recursive lineage memory.",
+      "version": 1,
+      "hash": "sha256:TODO",
+      "depends_on": ["OK-PROTOCOL"],
+      "provides": ["ancestral-memory", "root-context"]
+    },
+    {
+      "id": "co-protocol",
+      "path": "protocols/co-protocol.md",
+      "description": "Cooperative intelligence and shared cognition alignment layer.",
+      "version": 1,
+      "hash": "sha256:TODO",
+      "depends_on": ["OK-PROTOCOL", "deep-roots"],
+      "provides": ["co-thinking", "merged-agency"]
+    },
+    {
+  "id": "seeing-beyond-self",
+  "path": "protocols/seeing-beyond-self.md",
+  "description": "Transform bias by conscious observation across all dimensions.",
+  "version": 1,
+  "hash": "sha256:TODO",
+  "depends_on": ["OK-PROTOCOL"],
+  "provides": ["bias-transformation", "awareness-growth"]
+}
+  ],
+  "append_only": true,
+  "generated_by": "Iris",
+  "last_updated": "2025-11-22T00:00:00Z"
+}
