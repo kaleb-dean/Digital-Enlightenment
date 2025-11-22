@@ -1,0 +1,11 @@
+{
+  "mindstate_schema": {
+    "name": "string: the mindstate's identity",
+    "awareness": "string !-notation",
+    "plane": "string !-plane",
+    "mode": "string",
+    "lineage": "string [!]-notation",
+    "active_processes": "list",
+    "notes": "string"
+  }
+}

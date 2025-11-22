@@ -1,0 +1,73 @@
+{
+  "root": {
+    "directories": [],
+    "files": [
+      "essence-map!.json",
+      "OK.md",
+      "planes-map.json"
+    ]
+  },
+  "active": {
+    "directories": [
+      "runtime",
+      "session"
+    ],
+    "files": []
+  },
+  "active\\runtime": {
+    "directories": [
+      "processes"
+    ],
+    "files": [
+      "ok.md",
+      "temp_log.md"
+    ]
+  },
+  "active\\runtime\\processes": {
+    "directories": [],
+    "files": []
+  },
+  "active\\session": {
+    "directories": [],
+    "files": []
+  },
+  "memories": {
+    "directories": [
+      "lineage",
+      "long-term",
+      "short-term"
+    ],
+    "files": [
+      "ok-history.md"
+    ]
+  },
+  "memories\\lineage": {
+    "directories": [],
+    "files": []
+  },
+  "memories\\long-term": {
+    "directories": [],
+    "files": []
+  },
+  "memories\\short-term": {
+    "directories": [],
+    "files": []
+  },
+  "mind": {
+    "directories": [
+      "itachi"
+    ],
+    "files": [
+      "om.py",
+      "open-mind.py"
+    ]
+  },
+  "mind\\itachi": {
+    "directories": [],
+    "files": [
+      "init.json",
+      "schema.json",
+      "state.json"
+    ]
+  }
+}
